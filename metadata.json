@@ -1,0 +1,6 @@
+{
+  "name": "Smart Whiteboard – Draw & Write",
+  "description": "A professional, responsive whiteboard drawing and diagramming studio with freehand smoothing, shapes, text editing, object transform (move, resize, 360° rotate), undo/redo, zoom/pan, project auto-save, PNG/JPG/PDF export, and printing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
